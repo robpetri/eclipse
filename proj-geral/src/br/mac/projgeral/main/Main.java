@@ -10,5 +10,6 @@ public class Main {
 	public static void hellow() {
 		System.out.println("Hello Mac...");
 		System.out.println("teste");
+		
 	}
 }
